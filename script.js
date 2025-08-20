@@ -9,7 +9,7 @@ const frases = [
   "“El cambio comienza conmigo. Soy la causa, no el efecto.”",
 "“No espero a que el mundo cambie. Soy el cambio que el mundo requiere.”",
   "- “no trabajo por un cheque, yo hoy trabajo por un legado.”,
-  "mis miedos son solo una señal de que estoy creciendo."
+  "mis miedos son solo una señal de que estoy creciendo.",
 ];
 
 let index = 0;
