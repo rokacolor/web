@@ -7,9 +7,9 @@ const frases = [
   "Soy transformador de mis sueños a realidad.",
   "No necesito un cargo o título para ser el líder que soy.",
   "“El cambio comienza conmigo. Soy la causa, no el efecto.”",
-"“No espero a que el mundo cambie. Soy el cambio que el mundo requiere.”",
-  "- “no trabajo por un cheque, yo hoy trabajo por un legado.”,
-  "mis miedos son solo una señal de que estoy creciendo.",
+"No espero a que el mundo cambie. Soy el cambio que el mundo requiere.",
+  "No trabajo por un cheque, Yo hoy trabajo por un legado.”,
+  "Mis miedos son solo una señal de que estoy creciendo.",
 ];
 
 let index = 0;
