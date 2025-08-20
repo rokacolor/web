@@ -3,8 +3,8 @@ const frases = [
   "Yo soy un Hombre Libre, Amoroso y Confiado.",
   "Abrazo la vida con gratitud y confianza.",
   "El amor y la creatividad fluyen en mí.",
-  "Cada día es una nueva oportunidad para brillar.",
-  "Soy capaz de transformar mis ideas en realidad."
+  "Cada día es una oportunidad para brillar.",
+  "Soy transformador de sueños a realidad."
 ];
 
 let index = 0;
