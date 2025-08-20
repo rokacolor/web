@@ -1,10 +1,15 @@
 // Frases inspiradoras para el carrusel
 const frases = [
   "Yo soy un Hombre Libre, Amoroso y Confiado.",
-  "Abrazo la vida con gratitud y confianza.",
+  "Hoy Abrazo la vida con gratitud y confianza.",
   "El amor y la creatividad fluyen en mí.",
-  "Cada día es una oportunidad para brillar.",
-  "Soy transformador de sueños a realidad."
+  "Cada día es mi oportunidad de brillar.",
+  "Soy transformador de mis sueños a realidad.",
+  "No necesito un cargo o título para ser el líder que soy.",
+  "“El cambio comienza conmigo. Soy la causa, no el efecto.”",
+"“No espero a que el mundo cambie. Soy el cambio que el mundo requiere.”",
+  "- “no trabajo por un cheque, yo hoy trabajo por un legado.”,
+  "mis miedos son solo una señal de que estoy creciendo."
 ];
 
 let index = 0;
